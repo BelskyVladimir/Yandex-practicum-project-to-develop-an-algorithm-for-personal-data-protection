@@ -1,0 +1,1 @@
+# Yandex-practicum-project-to-develop-an-algorithm-for-personal-data-protection
